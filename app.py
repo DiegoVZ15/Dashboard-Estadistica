@@ -144,10 +144,11 @@ st.markdown("---")
 st.markdown(
     """
     <div style="text-align: center;">
-        <p><strong>Desarrollado por:</strong> Leidy M. Morayta Pérez, Ángela A. Pimienta Díaz, Victor A. Romero Minaya y Diego Valadez Almeyda</p>
+        <p><strong>Desarrollado por:</strong> Alan J. Campos Suarez, Leidy M. Morayta Pérez, Ángela A. Pimienta Díaz, Victor A. Romero Minaya y Diego Valadez Almeyda</p>
         <p><em>Proyecto final para la materia de Estadística | Noviembre 2025</em></p>
     </div>
     """,
     unsafe_allow_html=True
 
 )
+
